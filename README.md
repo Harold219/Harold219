@@ -1,8 +1,10 @@
 ### Hi, I'm Harold Navarro. 👋
 
-<img src="" >
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rckqv8Sy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91yhnh0era2zx9ial7me.png" >
 -⚛️I am a programming enthusiast, and javascript developer, currently focused on client-side technologies, such as Angular, Reactjs, etc.⚛️
 -✨My ultimate goal is the development of web applications with high scalability and detail and to achieve customer satisfaction. ✨
+
+<img src="https://media0.giphy.com/media/hUL5gdlvDgtRbOElZS/200w.webp?cid=ecf05e47peoh523wq6j9hl6cgn1vxsvzo26py7y59w1amn5l&rid=200w.webp&ct=s">
 <!--
 **Harold219/Harold219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
