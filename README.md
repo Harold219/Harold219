@@ -4,7 +4,7 @@
 -⚛️I am a programming enthusiast, and javascript developer, currently focused on client-side technologies, such as Angular, Reactjs, etc.⚛️
 -✨My ultimate goal is the development of web applications with high scalability and detail and to achieve customer satisfaction. ✨
 
-<img src="https://media0.giphy.com/media/hUL5gdlvDgtRbOElZS/200w.webp?cid=ecf05e47peoh523wq6j9hl6cgn1vxsvzo26py7y59w1amn5l&rid=200w.webp&ct=s">
+<img src="https://media1.giphy.com/media/iFmw13LV1hHhViPPWz/200w.webp?cid=ecf05e47peoh523wq6j9hl6cgn1vxsvzo26py7y59w1amn5l&rid=200w.webp&ct=s">
 <!--
 **Harold219/Harold219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
