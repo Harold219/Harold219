@@ -1,4 +1,4 @@
-### Hi, I'm 🚀Harold Navarro🚀. 👋
+### Hi👋, I'm 🚀Harold Navarro🚀. 
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rckqv8Sy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91yhnh0era2zx9ial7me.png" >
 -⚛️I am a programming enthusiast, and javascript developer, currently focused on client-side technologies, such as Angular, Reactjs, etc.⚛️
