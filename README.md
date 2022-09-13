@@ -1,6 +1,6 @@
 ### Hi, I'm Harold Navarro. 👋
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rAHvwN_l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kp1b5x0uufzyabikh8fp.png" >
+<img src="https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=790b76114a0c606cac0255d203ce85a120b79df04966a6a3&rid=giphy.gif&ct=g" >
 I am a programming enthusiast, and javascript developer, currently focused on client-side technologies, such as Angular, Reactjs, etc.
 ✨My ultimate goal is the development of web applications with high scalability and detail and to achieve customer satisfaction. ✨
 <!--
