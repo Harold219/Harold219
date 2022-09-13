@@ -1,5 +1,7 @@
 ### Hi, I'm Harold Navarro. 👋
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rAHvwN_l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kp1b5x0uufzyabikh8fp.png" >
+
 <!--
 **Harold219/Harold219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
